@@ -3,6 +3,11 @@
   <groupId>demo</groupId>
   <artifactId>demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+	<properties>
+	  <sonar.projectKey>R-Damian_demo-sonar</sonar.projectKey>
+	</properties>
+  
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
